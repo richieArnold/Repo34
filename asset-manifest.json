@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Repo34/static/css/main.073c9b0a.css",
+    "main.js": "/Repo34/static/js/main.16ab850c.js",
+    "static/js/787.c550c5c1.chunk.js": "/Repo34/static/js/787.c550c5c1.chunk.js",
+    "static/media/logo.svg": "/Repo34/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Repo34/index.html",
+    "main.073c9b0a.css.map": "/Repo34/static/css/main.073c9b0a.css.map",
+    "main.16ab850c.js.map": "/Repo34/static/js/main.16ab850c.js.map",
+    "787.c550c5c1.chunk.js.map": "/Repo34/static/js/787.c550c5c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.16ab850c.js"
+  ]
+}
